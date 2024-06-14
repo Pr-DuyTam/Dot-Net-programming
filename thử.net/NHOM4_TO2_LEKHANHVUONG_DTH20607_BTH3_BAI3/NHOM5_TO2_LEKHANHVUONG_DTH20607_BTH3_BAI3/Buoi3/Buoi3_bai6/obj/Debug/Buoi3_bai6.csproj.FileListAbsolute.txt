@@ -1,0 +1,21 @@
+Z:\NHOM5_TO2-LEKHANHVUONG_DTH20607_TH3\Buoi3\Buoi3_bai6\bin\Debug\Buoi3_bai6.exe.config
+Z:\NHOM5_TO2-LEKHANHVUONG_DTH20607_TH3\Buoi3\Buoi3_bai6\bin\Debug\Buoi3_bai6.exe
+Z:\NHOM5_TO2-LEKHANHVUONG_DTH20607_TH3\Buoi3\Buoi3_bai6\bin\Debug\Buoi3_bai6.pdb
+Z:\NHOM5_TO2-LEKHANHVUONG_DTH20607_TH3\Buoi3\Buoi3_bai6\obj\Debug\Buoi3_bai6.csproj.AssemblyReference.cache
+Z:\NHOM5_TO2-LEKHANHVUONG_DTH20607_TH3\Buoi3\Buoi3_bai6\obj\Debug\Buoi3_bai6.Form1.resources
+Z:\NHOM5_TO2-LEKHANHVUONG_DTH20607_TH3\Buoi3\Buoi3_bai6\obj\Debug\Buoi3_bai6.Properties.Resources.resources
+Z:\NHOM5_TO2-LEKHANHVUONG_DTH20607_TH3\Buoi3\Buoi3_bai6\obj\Debug\Buoi3_bai6.csproj.GenerateResource.cache
+Z:\NHOM5_TO2-LEKHANHVUONG_DTH20607_TH3\Buoi3\Buoi3_bai6\obj\Debug\Buoi3_bai6.csproj.CoreCompileInputs.cache
+Z:\NHOM5_TO2-LEKHANHVUONG_DTH20607_TH3\Buoi3\Buoi3_bai6\obj\Debug\Buoi3_bai6.exe
+Z:\NHOM5_TO2-LEKHANHVUONG_DTH20607_TH3\Buoi3\Buoi3_bai6\obj\Debug\Buoi3_bai6.pdb
+C:\Lê Khánh Vương\lập trình net\NHOM5_TO2_LEKHANHVUONG_BTH3_BAI3\Buoi3\Buoi3_bai6\bin\Debug\Buoi3_bai6.exe.config
+C:\Lê Khánh Vương\lập trình net\NHOM5_TO2_LEKHANHVUONG_BTH3_BAI3\Buoi3\Buoi3_bai6\bin\Debug\Buoi3_bai6.exe
+C:\Lê Khánh Vương\lập trình net\NHOM5_TO2_LEKHANHVUONG_BTH3_BAI3\Buoi3\Buoi3_bai6\bin\Debug\Buoi3_bai6.pdb
+C:\Lê Khánh Vương\lập trình net\NHOM5_TO2_LEKHANHVUONG_BTH3_BAI3\Buoi3\Buoi3_bai6\obj\Debug\Buoi3_bai6.csproj.AssemblyReference.cache
+C:\Lê Khánh Vương\lập trình net\NHOM5_TO2_LEKHANHVUONG_BTH3_BAI3\Buoi3\Buoi3_bai6\obj\Debug\Buoi3_bai6.csproj.SuggestedBindingRedirects.cache
+C:\Lê Khánh Vương\lập trình net\NHOM5_TO2_LEKHANHVUONG_BTH3_BAI3\Buoi3\Buoi3_bai6\obj\Debug\Buoi3_bai6.Form1.resources
+C:\Lê Khánh Vương\lập trình net\NHOM5_TO2_LEKHANHVUONG_BTH3_BAI3\Buoi3\Buoi3_bai6\obj\Debug\Buoi3_bai6.Properties.Resources.resources
+C:\Lê Khánh Vương\lập trình net\NHOM5_TO2_LEKHANHVUONG_BTH3_BAI3\Buoi3\Buoi3_bai6\obj\Debug\Buoi3_bai6.csproj.GenerateResource.cache
+C:\Lê Khánh Vương\lập trình net\NHOM5_TO2_LEKHANHVUONG_BTH3_BAI3\Buoi3\Buoi3_bai6\obj\Debug\Buoi3_bai6.csproj.CoreCompileInputs.cache
+C:\Lê Khánh Vương\lập trình net\NHOM5_TO2_LEKHANHVUONG_BTH3_BAI3\Buoi3\Buoi3_bai6\obj\Debug\Buoi3_bai6.exe
+C:\Lê Khánh Vương\lập trình net\NHOM5_TO2_LEKHANHVUONG_BTH3_BAI3\Buoi3\Buoi3_bai6\obj\Debug\Buoi3_bai6.pdb

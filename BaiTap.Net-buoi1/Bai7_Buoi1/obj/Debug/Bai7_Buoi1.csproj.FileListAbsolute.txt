@@ -1,0 +1,8 @@
+D:\Lập trình .Net\BaiTap.Net-buoi1\Bai7_Buoi1\bin\Debug\Bai7_Buoi1.exe.config
+D:\Lập trình .Net\BaiTap.Net-buoi1\Bai7_Buoi1\bin\Debug\Bai7_Buoi1.exe
+D:\Lập trình .Net\BaiTap.Net-buoi1\Bai7_Buoi1\bin\Debug\Bai7_Buoi1.pdb
+D:\Lập trình .Net\BaiTap.Net-buoi1\Bai7_Buoi1\obj\Debug\Bai7_Buoi1.csproj.AssemblyReference.cache
+D:\Lập trình .Net\BaiTap.Net-buoi1\Bai7_Buoi1\obj\Debug\Bai7_Buoi1.csproj.SuggestedBindingRedirects.cache
+D:\Lập trình .Net\BaiTap.Net-buoi1\Bai7_Buoi1\obj\Debug\Bai7_Buoi1.csproj.CoreCompileInputs.cache
+D:\Lập trình .Net\BaiTap.Net-buoi1\Bai7_Buoi1\obj\Debug\Bai7_Buoi1.exe
+D:\Lập trình .Net\BaiTap.Net-buoi1\Bai7_Buoi1\obj\Debug\Bai7_Buoi1.pdb

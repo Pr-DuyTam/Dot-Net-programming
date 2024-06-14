@@ -1,0 +1,10 @@
+Z:\HOC_KY_V\LAP_TRINH_.NET\Workspace__DOT-NET\BAI_TAP\BUOI_2\BUOI_2\Bai_3.4-B2\bin\Debug\Bai_3.4-B2.exe.config
+Z:\HOC_KY_V\LAP_TRINH_.NET\Workspace__DOT-NET\BAI_TAP\BUOI_2\BUOI_2\Bai_3.4-B2\bin\Debug\Bai_3.4-B2.exe
+Z:\HOC_KY_V\LAP_TRINH_.NET\Workspace__DOT-NET\BAI_TAP\BUOI_2\BUOI_2\Bai_3.4-B2\bin\Debug\Bai_3.4-B2.pdb
+Z:\HOC_KY_V\LAP_TRINH_.NET\Workspace__DOT-NET\BAI_TAP\BUOI_2\BUOI_2\Bai_3.4-B2\obj\Debug\Bai_3.4-B2.csproj.AssemblyReference.cache
+Z:\HOC_KY_V\LAP_TRINH_.NET\Workspace__DOT-NET\BAI_TAP\BUOI_2\BUOI_2\Bai_3.4-B2\obj\Debug\Bai_3.4-B2.csproj.SuggestedBindingRedirects.cache
+Z:\HOC_KY_V\LAP_TRINH_.NET\Workspace__DOT-NET\BAI_TAP\BUOI_2\BUOI_2\Bai_3.4-B2\obj\Debug\Bai_3._4_B2.Properties.Resources.resources
+Z:\HOC_KY_V\LAP_TRINH_.NET\Workspace__DOT-NET\BAI_TAP\BUOI_2\BUOI_2\Bai_3.4-B2\obj\Debug\Bai_3.4-B2.csproj.GenerateResource.cache
+Z:\HOC_KY_V\LAP_TRINH_.NET\Workspace__DOT-NET\BAI_TAP\BUOI_2\BUOI_2\Bai_3.4-B2\obj\Debug\Bai_3.4-B2.csproj.CoreCompileInputs.cache
+Z:\HOC_KY_V\LAP_TRINH_.NET\Workspace__DOT-NET\BAI_TAP\BUOI_2\BUOI_2\Bai_3.4-B2\obj\Debug\Bai_3.4-B2.exe
+Z:\HOC_KY_V\LAP_TRINH_.NET\Workspace__DOT-NET\BAI_TAP\BUOI_2\BUOI_2\Bai_3.4-B2\obj\Debug\Bai_3.4-B2.pdb

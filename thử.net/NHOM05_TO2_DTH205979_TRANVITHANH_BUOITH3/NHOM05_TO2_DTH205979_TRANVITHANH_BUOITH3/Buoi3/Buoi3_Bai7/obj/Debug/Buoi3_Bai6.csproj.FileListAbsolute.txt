@@ -1,0 +1,10 @@
+Z:\NHOM05_TO2_DTH205979_TRANVITHANH_BUOITH3\Buoi3\Buoi3_Bai7\bin\Debug\Buoi3_Bai7.exe.config
+Z:\NHOM05_TO2_DTH205979_TRANVITHANH_BUOITH3\Buoi3\Buoi3_Bai7\bin\Debug\Buoi3_Bai7.exe
+Z:\NHOM05_TO2_DTH205979_TRANVITHANH_BUOITH3\Buoi3\Buoi3_Bai7\bin\Debug\Buoi3_Bai7.pdb
+Z:\NHOM05_TO2_DTH205979_TRANVITHANH_BUOITH3\Buoi3\Buoi3_Bai7\obj\Debug\Buoi3_Bai7.Form1.resources
+Z:\NHOM05_TO2_DTH205979_TRANVITHANH_BUOITH3\Buoi3\Buoi3_Bai7\obj\Debug\Buoi3_Bai7.Properties.Resources.resources
+Z:\NHOM05_TO2_DTH205979_TRANVITHANH_BUOITH3\Buoi3\Buoi3_Bai7\obj\Debug\Buoi3_Bai6.csproj.GenerateResource.cache
+Z:\NHOM05_TO2_DTH205979_TRANVITHANH_BUOITH3\Buoi3\Buoi3_Bai7\obj\Debug\Buoi3_Bai6.csproj.CoreCompileInputs.cache
+Z:\NHOM05_TO2_DTH205979_TRANVITHANH_BUOITH3\Buoi3\Buoi3_Bai7\obj\Debug\Buoi3_Bai7.exe
+Z:\NHOM05_TO2_DTH205979_TRANVITHANH_BUOITH3\Buoi3\Buoi3_Bai7\obj\Debug\Buoi3_Bai7.pdb
+Z:\NHOM05_TO2_DTH205979_TRANVITHANH_BUOITH3\Buoi3\Buoi3_Bai7\obj\Debug\Buoi3_Bai6.csproj.AssemblyReference.cache

@@ -1,0 +1,12 @@
+Z:\Nhom5_To2_DTH205967_NguyenKhanhDuyTam_BTH_Buoi3\buoi3\Bai1_buoi3\obj\Debug\Bai1_buoi3.csproj.AssemblyReference.cache
+Z:\Nhom5_To2_DTH205967_NguyenKhanhDuyTam_BTH_Buoi3\buoi3\Bai1_buoi3\obj\Debug\Bai1_buoi3.Bai1.resources
+Z:\Nhom5_To2_DTH205967_NguyenKhanhDuyTam_BTH_Buoi3\buoi3\Bai1_buoi3\obj\Debug\Bai1_buoi3.Properties.Resources.resources
+Z:\Nhom5_To2_DTH205967_NguyenKhanhDuyTam_BTH_Buoi3\buoi3\Bai1_buoi3\obj\Debug\Bai1_buoi3.csproj.GenerateResource.cache
+Z:\Nhom5_To2_DTH205967_NguyenKhanhDuyTam_BTH_Buoi3\buoi3\Bai1_buoi3\obj\Debug\Bai1_buoi3.csproj.CoreCompileInputs.cache
+Z:\Nhom5_To2_DTH205967_NguyenKhanhDuyTam_BTH_Buoi3\buoi3\Bai1_buoi3\bin\Debug\Bai1_buoi3.exe.config
+Z:\Nhom5_To2_DTH205967_NguyenKhanhDuyTam_BTH_Buoi3\buoi3\Bai1_buoi3\bin\Debug\Bai1_buoi3.exe
+Z:\Nhom5_To2_DTH205967_NguyenKhanhDuyTam_BTH_Buoi3\buoi3\Bai1_buoi3\bin\Debug\Bai1_buoi3.pdb
+Z:\Nhom5_To2_DTH205967_NguyenKhanhDuyTam_BTH_Buoi3\buoi3\Bai1_buoi3\obj\Debug\Bai1_buoi3.exe
+Z:\Nhom5_To2_DTH205967_NguyenKhanhDuyTam_BTH_Buoi3\buoi3\Bai1_buoi3\obj\Debug\Bai1_buoi3.pdb
+Z:\Nhom5_To2_DTH205967_NguyenKhanhDuyTam_BTH_Buoi3\buoi3\Bai1_buoi3\obj\Debug\Bai1_buoi3.Bai2.resources
+Z:\Nhom5_To2_DTH205967_NguyenKhanhDuyTam_BTH_Buoi3\buoi3\Bai1_buoi3\obj\Debug\Bai1_buoi3.Form2.resources

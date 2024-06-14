@@ -1,0 +1,25 @@
+Z:\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Buoi8_Bai8.1\bin\Debug\Buoi8_Bai8.1.exe.config
+Z:\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Buoi8_Bai8.1\bin\Debug\Buoi8_Bai8.1.exe
+Z:\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Buoi8_Bai8.1\bin\Debug\Buoi8_Bai8.1.pdb
+Z:\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Buoi8_Bai8.1\obj\Debug\Buoi8_Bai8.1.csproj.AssemblyReference.cache
+Z:\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Buoi8_Bai8.1\obj\Debug\Buoi8_Bai8._1.From1.resources
+Z:\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Buoi8_Bai8.1\obj\Debug\Buoi8_Bai8._1.Frmktcl.resources
+Z:\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Buoi8_Bai8.1\obj\Debug\Buoi8_Bai8._1.FrmTm.resources
+Z:\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Buoi8_Bai8.1\obj\Debug\Buoi8_Bai8._1.Properties.Resources.resources
+Z:\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Buoi8_Bai8.1\obj\Debug\Buoi8_Bai8.1.csproj.GenerateResource.cache
+Z:\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Buoi8_Bai8.1\obj\Debug\Buoi8_Bai8.1.csproj.CoreCompileInputs.cache
+Z:\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Buoi8_Bai8.1\obj\Debug\Buoi8_Bai8.1.exe
+Z:\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Buoi8_Bai8.1\obj\Debug\Buoi8_Bai8.1.pdb
+D:\Lập trình .Net\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Buoi8_Bai8.1\bin\Debug\Buoi8_Bai8.1.exe.config
+D:\Lập trình .Net\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Buoi8_Bai8.1\bin\Debug\Buoi8_Bai8.1.exe
+D:\Lập trình .Net\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Buoi8_Bai8.1\bin\Debug\Buoi8_Bai8.1.pdb
+D:\Lập trình .Net\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Buoi8_Bai8.1\obj\Debug\Buoi8_Bai8.1.csproj.AssemblyReference.cache
+D:\Lập trình .Net\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Buoi8_Bai8.1\obj\Debug\Buoi8_Bai8.1.csproj.SuggestedBindingRedirects.cache
+D:\Lập trình .Net\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Buoi8_Bai8.1\obj\Debug\Buoi8_Bai8._1.From1.resources
+D:\Lập trình .Net\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Buoi8_Bai8.1\obj\Debug\Buoi8_Bai8._1.Frmktcl.resources
+D:\Lập trình .Net\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Buoi8_Bai8.1\obj\Debug\Buoi8_Bai8._1.FrmTm.resources
+D:\Lập trình .Net\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Buoi8_Bai8.1\obj\Debug\Buoi8_Bai8._1.Properties.Resources.resources
+D:\Lập trình .Net\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Buoi8_Bai8.1\obj\Debug\Buoi8_Bai8.1.csproj.GenerateResource.cache
+D:\Lập trình .Net\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Buoi8_Bai8.1\obj\Debug\Buoi8_Bai8.1.csproj.CoreCompileInputs.cache
+D:\Lập trình .Net\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Buoi8_Bai8.1\obj\Debug\Buoi8_Bai8.1.exe
+D:\Lập trình .Net\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Buoi8_Bai8.1\obj\Debug\Buoi8_Bai8.1.pdb

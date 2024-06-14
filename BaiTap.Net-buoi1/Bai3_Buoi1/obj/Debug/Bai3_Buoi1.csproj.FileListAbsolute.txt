@@ -1,0 +1,3 @@
+D:\Lập trình .Net\Bai1-buoi1\Bai3_Buoi1\obj\Debug\Bai3_Buoi1.csproj.AssemblyReference.cache
+D:\Lập trình .Net\Bai1-buoi1\Bai3_Buoi1\obj\Debug\Bai3_Buoi1.csproj.SuggestedBindingRedirects.cache
+D:\Lập trình .Net\Bai1-buoi1\Bai3_Buoi1\obj\Debug\Bai3_Buoi1.csproj.CoreCompileInputs.cache

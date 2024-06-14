@@ -1,0 +1,11 @@
+D:\Lập trình .Net\Nhom5_To2_DTH205967_NguyenKhanhDuyTam_BTTH2\Buoi2\Buoi2_bai1\bin\Debug\Bai_3.2-B2.exe.config
+D:\Lập trình .Net\Nhom5_To2_DTH205967_NguyenKhanhDuyTam_BTTH2\Buoi2\Buoi2_bai1\bin\Debug\Bai_3.2-B2.exe
+D:\Lập trình .Net\Nhom5_To2_DTH205967_NguyenKhanhDuyTam_BTTH2\Buoi2\Buoi2_bai1\bin\Debug\Bai_3.2-B2.pdb
+D:\Lập trình .Net\Nhom5_To2_DTH205967_NguyenKhanhDuyTam_BTTH2\Buoi2\Buoi2_bai1\obj\Debug\Bai_3.2-B2.csproj.AssemblyReference.cache
+D:\Lập trình .Net\Nhom5_To2_DTH205967_NguyenKhanhDuyTam_BTTH2\Buoi2\Buoi2_bai1\obj\Debug\Bai_3.2-B2.csproj.SuggestedBindingRedirects.cache
+D:\Lập trình .Net\Nhom5_To2_DTH205967_NguyenKhanhDuyTam_BTTH2\Buoi2\Buoi2_bai1\obj\Debug\Bai_3._7_B2.Form1.resources
+D:\Lập trình .Net\Nhom5_To2_DTH205967_NguyenKhanhDuyTam_BTTH2\Buoi2\Buoi2_bai1\obj\Debug\Bai_3._2_B2.Properties.Resources.resources
+D:\Lập trình .Net\Nhom5_To2_DTH205967_NguyenKhanhDuyTam_BTTH2\Buoi2\Buoi2_bai1\obj\Debug\Bai_3.2-B2.csproj.GenerateResource.cache
+D:\Lập trình .Net\Nhom5_To2_DTH205967_NguyenKhanhDuyTam_BTTH2\Buoi2\Buoi2_bai1\obj\Debug\Bai_3.2-B2.csproj.CoreCompileInputs.cache
+D:\Lập trình .Net\Nhom5_To2_DTH205967_NguyenKhanhDuyTam_BTTH2\Buoi2\Buoi2_bai1\obj\Debug\Bai_3.2-B2.exe
+D:\Lập trình .Net\Nhom5_To2_DTH205967_NguyenKhanhDuyTam_BTTH2\Buoi2\Buoi2_bai1\obj\Debug\Bai_3.2-B2.pdb

@@ -1,0 +1,23 @@
+D:\LTnet\DoAn\DoAnLTnet\bin\Debug\DoAnLTnet.exe.config
+D:\LTnet\DoAn\DoAnLTnet\bin\Debug\DoAnLTnet.exe
+D:\LTnet\DoAn\DoAnLTnet\bin\Debug\DoAnLTnet.pdb
+D:\LTnet\DoAn\DoAnLTnet\obj\Debug\DoAnLTnet.csproj.AssemblyReference.cache
+D:\LTnet\DoAn\DoAnLTnet\obj\Debug\DoAnLTnet.Form1.resources
+D:\LTnet\DoAn\DoAnLTnet\obj\Debug\DoAnLTnet.Properties.Resources.resources
+D:\LTnet\DoAn\DoAnLTnet\obj\Debug\DoAnLTnet.csproj.GenerateResource.cache
+D:\LTnet\DoAn\DoAnLTnet\obj\Debug\DoAnLTnet.csproj.CoreCompileInputs.cache
+D:\LTnet\DoAn\DoAnLTnet\obj\Debug\DoAnLTnet.exe
+D:\LTnet\DoAn\DoAnLTnet\obj\Debug\DoAnLTnet.pdb
+D:\LTnet\DoAn\DoAnLTnet\obj\Debug\DoAnLTnet.DangNhap.resources
+D:\Lập trình .Net\DoAn\DoAnLTnet\bin\Debug\DoAnLTnet.exe.config
+D:\Lập trình .Net\DoAn\DoAnLTnet\bin\Debug\DoAnLTnet.exe
+D:\Lập trình .Net\DoAn\DoAnLTnet\bin\Debug\DoAnLTnet.pdb
+D:\Lập trình .Net\DoAn\DoAnLTnet\obj\Debug\DoAnLTnet.csproj.AssemblyReference.cache
+D:\Lập trình .Net\DoAn\DoAnLTnet\obj\Debug\DoAnLTnet.csproj.SuggestedBindingRedirects.cache
+D:\Lập trình .Net\DoAn\DoAnLTnet\obj\Debug\DoAnLTnet.DangNhap.resources
+D:\Lập trình .Net\DoAn\DoAnLTnet\obj\Debug\DoAnLTnet.Form1.resources
+D:\Lập trình .Net\DoAn\DoAnLTnet\obj\Debug\DoAnLTnet.Properties.Resources.resources
+D:\Lập trình .Net\DoAn\DoAnLTnet\obj\Debug\DoAnLTnet.csproj.GenerateResource.cache
+D:\Lập trình .Net\DoAn\DoAnLTnet\obj\Debug\DoAnLTnet.csproj.CoreCompileInputs.cache
+D:\Lập trình .Net\DoAn\DoAnLTnet\obj\Debug\DoAnLTnet.exe
+D:\Lập trình .Net\DoAn\DoAnLTnet\obj\Debug\DoAnLTnet.pdb

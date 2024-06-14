@@ -1,0 +1,10 @@
+Z:\NHOM5_TO2-LEKHANHVUONG_DTH20607_TH3\Buoi3\Buoi3_bai4\obj\Debug\Buoi3_bai4.csproj.AssemblyReference.cache
+Z:\NHOM5_TO2-LEKHANHVUONG_DTH20607_TH3\Buoi3\Buoi3_bai4\obj\Debug\Buoi3_bai4.Form1.resources
+Z:\NHOM5_TO2-LEKHANHVUONG_DTH20607_TH3\Buoi3\Buoi3_bai4\obj\Debug\Buoi3_bai4.Properties.Resources.resources
+Z:\NHOM5_TO2-LEKHANHVUONG_DTH20607_TH3\Buoi3\Buoi3_bai4\obj\Debug\Buoi3_bai4.csproj.GenerateResource.cache
+Z:\NHOM5_TO2-LEKHANHVUONG_DTH20607_TH3\Buoi3\Buoi3_bai4\obj\Debug\Buoi3_bai4.csproj.CoreCompileInputs.cache
+Z:\NHOM5_TO2-LEKHANHVUONG_DTH20607_TH3\Buoi3\Buoi3_bai4\bin\Debug\Buoi3_bai4.exe.config
+Z:\NHOM5_TO2-LEKHANHVUONG_DTH20607_TH3\Buoi3\Buoi3_bai4\bin\Debug\Buoi3_bai4.exe
+Z:\NHOM5_TO2-LEKHANHVUONG_DTH20607_TH3\Buoi3\Buoi3_bai4\bin\Debug\Buoi3_bai4.pdb
+Z:\NHOM5_TO2-LEKHANHVUONG_DTH20607_TH3\Buoi3\Buoi3_bai4\obj\Debug\Buoi3_bai4.exe
+Z:\NHOM5_TO2-LEKHANHVUONG_DTH20607_TH3\Buoi3\Buoi3_bai4\obj\Debug\Buoi3_bai4.pdb

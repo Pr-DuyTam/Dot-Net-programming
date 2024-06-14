@@ -1,0 +1,2 @@
+Z:\NHOM05_TO2_DTH205979_TRANVITHANH_BUOITH3\Buoi3\Buoi3_Bai7\obj\Debug\Buoi3_Bai7.Properties.Resources.resources
+Z:\NHOM05_TO2_DTH205979_TRANVITHANH_BUOITH3\Buoi3\Buoi3_Bai7\obj\Debug\Buoi3_Bai6.csproj.GenerateResource.cache

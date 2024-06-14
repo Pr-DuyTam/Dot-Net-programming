@@ -1,0 +1,13 @@
+D:\Lập trình .Net\Bai8-2(Ktra)\Bai8-2(Ktra)\bin\Debug\Bai8-2(Ktra).exe.config
+D:\Lập trình .Net\Bai8-2(Ktra)\Bai8-2(Ktra)\bin\Debug\Bai8-2(Ktra).exe
+D:\Lập trình .Net\Bai8-2(Ktra)\Bai8-2(Ktra)\bin\Debug\Bai8-2(Ktra).pdb
+D:\Lập trình .Net\Bai8-2(Ktra)\Bai8-2(Ktra)\obj\Debug\Bai8-2(Ktra).csproj.AssemblyReference.cache
+D:\Lập trình .Net\Bai8-2(Ktra)\Bai8-2(Ktra)\obj\Debug\Bai8-2(Ktra).csproj.SuggestedBindingRedirects.cache
+D:\Lập trình .Net\Bai8-2(Ktra)\Bai8-2(Ktra)\obj\Debug\Bai8_2_Ktra_.Form1.resources
+D:\Lập trình .Net\Bai8-2(Ktra)\Bai8-2(Ktra)\obj\Debug\Bai8_2_Ktra_.frmTongMang.resources
+D:\Lập trình .Net\Bai8-2(Ktra)\Bai8-2(Ktra)\obj\Debug\Bai8_2_Ktra_.frmTimkiem.resources
+D:\Lập trình .Net\Bai8-2(Ktra)\Bai8-2(Ktra)\obj\Debug\Bai8_2_Ktra_.Properties.Resources.resources
+D:\Lập trình .Net\Bai8-2(Ktra)\Bai8-2(Ktra)\obj\Debug\Bai8-2(Ktra).csproj.GenerateResource.cache
+D:\Lập trình .Net\Bai8-2(Ktra)\Bai8-2(Ktra)\obj\Debug\Bai8-2(Ktra).csproj.CoreCompileInputs.cache
+D:\Lập trình .Net\Bai8-2(Ktra)\Bai8-2(Ktra)\obj\Debug\Bai8-2(Ktra).exe
+D:\Lập trình .Net\Bai8-2(Ktra)\Bai8-2(Ktra)\obj\Debug\Bai8-2(Ktra).pdb

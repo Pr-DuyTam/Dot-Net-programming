@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi2_Bai2", "Buoi2_Bai2\Buoi2_Bai2.csproj", "{F01E1F31-8B06-48F2-9F68-F83BD5E273D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi2_Bai3", "Buoi2_Bai3\Buoi2_Bai3.csproj", "{C89F5C26-1696-4521-ABB7-0429FEA4AB97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F01E1F31-8B06-48F2-9F68-F83BD5E273D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F01E1F31-8B06-48F2-9F68-F83BD5E273D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F01E1F31-8B06-48F2-9F68-F83BD5E273D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F01E1F31-8B06-48F2-9F68-F83BD5E273D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C89F5C26-1696-4521-ABB7-0429FEA4AB97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C89F5C26-1696-4521-ABB7-0429FEA4AB97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C89F5C26-1696-4521-ABB7-0429FEA4AB97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C89F5C26-1696-4521-ABB7-0429FEA4AB97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E5FCE5C-B0AB-4B10-A3A9-29B02B2D59FA}
+	EndGlobalSection
+EndGlobal

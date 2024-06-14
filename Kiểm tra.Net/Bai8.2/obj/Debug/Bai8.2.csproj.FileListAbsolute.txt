@@ -1,0 +1,12 @@
+Z:\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Bai8.2\bin\Debug\Bai8.2.exe.config
+Z:\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Bai8.2\bin\Debug\Bai8.2.exe
+Z:\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Bai8.2\bin\Debug\Bai8.2.pdb
+Z:\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Bai8.2\obj\Debug\Bai8.2.csproj.AssemblyReference.cache
+Z:\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Bai8.2\obj\Debug\Bai8._2.Form1.resources
+Z:\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Bai8.2\obj\Debug\Bai8._2.frmTimkiem.resources
+Z:\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Bai8.2\obj\Debug\Bai8._2.frmTongMang.resources
+Z:\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Bai8.2\obj\Debug\Bai8._2.Properties.Resources.resources
+Z:\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Bai8.2\obj\Debug\Bai8.2.csproj.GenerateResource.cache
+Z:\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Bai8.2\obj\Debug\Bai8.2.csproj.CoreCompileInputs.cache
+Z:\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Bai8.2\obj\Debug\Bai8.2.exe
+Z:\Nhom5_To2_NguyenKhanhDuyTam_DTH205967_BTH_Buoi8\Buoi8\Bai8.2\obj\Debug\Bai8.2.pdb
